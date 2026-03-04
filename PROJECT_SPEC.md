@@ -38,7 +38,7 @@ git reset là dùng để quay lại lịch sử dự án của về 1 thời đ
     
     có 3 mức độ 
         shot
-    
+        
     
 
 
