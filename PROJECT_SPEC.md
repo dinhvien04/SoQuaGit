@@ -1,1 +1,1 @@
-chào tất cả
+chào tất cả mọi ngươif
